@@ -1,2 +1,2 @@
-# syberian
+# syberian cc gen/cc check
  
