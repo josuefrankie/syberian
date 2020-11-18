@@ -32,7 +32,7 @@
 		<div class="row justify-content-md-center">
 			<div class="col-md">
 				<center>
-					<img class="rounded-circle" src="assets/img/syberian.png" width="250" height="250" style="margin-top: 15px;" onclick="modalCCGEN();">
+					<img class="rounded-circle" src="syberian.png" width="250" height="250" style="margin-top: 15px;" onclick="modalCCGEN();">
 				</center>
 			</div>
 		</div>
